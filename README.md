@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Ayush-b500/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ayush-b500/Leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Ayush-b500/Leetcode/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-b500/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-b500/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-b500/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
