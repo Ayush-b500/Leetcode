@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-b500/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-b500/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-b500/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-b500/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
