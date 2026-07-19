@@ -36,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-b500/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ayush-b500/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-b500/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-b500/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
