@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-b500/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
