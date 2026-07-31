@@ -36,6 +36,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-b500/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ayush-b500/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/Ayush-b500/Leetcode/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-b500/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
@@ -78,5 +79,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayush-b500/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
