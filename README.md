@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -82,5 +84,6 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayush-b500/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
