@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Ayush-b500/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ayush-b500/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Ayush-b500/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/Ayush-b500/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-b500/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-b500/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -19,6 +20,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayush-b500/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -30,6 +32,7 @@
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-b500/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +56,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -110,4 +114,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayush-b500/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush-b500/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayush-b500/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
