@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/Ayush-b500/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Ayush-b500/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ayush-b500/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1922-count-good-numbers](https://github.com/Ayush-b500/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-b500/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-b500/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -59,6 +60,7 @@
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ayush-b500/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
