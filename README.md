@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush-b500/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-b500/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-b500/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -137,4 +139,28 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-b500/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
