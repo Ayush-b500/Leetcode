@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Ayush-b500/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-b500/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush-b500/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Ayush-b500/Leetcode/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Ayush-b500/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
