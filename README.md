@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayush-b500/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayush-b500/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Ayush-b500/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-b500/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Ayush-b500/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ayush-b500/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayush-b500/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-b500/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +88,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayush-b500/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Ayush-b500/Leetcode/tree/master/0867-transpose-matrix) |
 ## Greedy
