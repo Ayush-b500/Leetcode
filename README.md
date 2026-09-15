@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-b500/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Ayush-b500/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ayush-b500/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Ayush-b500/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-b500/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ayush-b500/Leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-b500/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ayush-b500/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-b500/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Ayush-b500/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
