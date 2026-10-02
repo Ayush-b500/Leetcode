@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Ayush-b500/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Ayush-b500/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ayush-b500/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayush-b500/Leetcode/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-b500/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-b500/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Ayush-b500/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Ayush-b500/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
