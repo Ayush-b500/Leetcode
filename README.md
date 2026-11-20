@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/Ayush-b500/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayush-b500/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayush-b500/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ayush-b500/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ayush-b500/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Ayush-b500/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Ayush-b500/Leetcode/tree/master/0912-sort-an-array) |
